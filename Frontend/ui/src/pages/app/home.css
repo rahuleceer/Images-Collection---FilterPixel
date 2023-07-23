@@ -1,0 +1,21 @@
+.nav{
+    width: 100%;
+    /* margin: 0.5%; */
+    display: flex;
+    justify-content: space-between;
+    background-color: #1A1B1E;
+}
+
+.fields{
+    margin: 1%;
+    width: 30%;
+    display: flex;
+    justify-content: end;
+}
+
+
+.fields button{
+    border-width : 0px;
+    background-color: #1A1B1E;
+    margin-right: 50px;
+}
